@@ -8,7 +8,7 @@ Primjeri neprihvatljivog ponašanja od strane učesnika uključuje:
 
 * Upotreba seksualiziranog jezika ili slika
 * Lični napadi
-* Provokacije ili uvredljivi/pogrdni komentari
+* Provokacije ili uvredljivi/pogrdni komentari 
 * Javno ili privatno uznemiravanje
 * Objevljivanje tuđih privatnih informacija, poput fizičkih ili elektronskih
   adresa, bez izričitog dopuštenja
