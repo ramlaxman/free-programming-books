@@ -6,14 +6,6 @@ Posvećeni smo tome da učešće u ovom projektu učinimo iskustvom bez uznemira
 
 Primjeri neprihvatljivog ponašanja od strane učesnika uključuje:  
 
-* Upotreba seksualiziranog jezika ili slika
-* Lični napadi
-* Provokacije ili uvredljivi/pogrdni komentari 
-* Javno ili privatno uznemiravanje
-* Objevljivanje tuđih privatnih informacija, poput fizičkih ili elektronskih
-  adresa, bez izričitog dopuštenja
-* Drugo neetičko ili neprofesionalno ponašanje
-
 Održavaoci projekta imaju pravo i odgovornost da uklone, uređuju ili odbiju komentare, commit-e, kôd, wiki ažuriranja, probleme i druge kontribucije koje nisu usklađene sa ovim kodeksom ponašanja, ili privremeno ili trajno zabraniti bilo kojeg kontributora zbog ponašanja koje se smatra neprikladnim, prijetećim ili štetnim.
 
 Usvajanjem ovog kodeksa ponašanja, održavaoci projekta se obavezuju na pravednu i dosljednu primjenu ovih principa na svaki aspekat upravljanja ovim projektom. Održavaoci projekta koji ne poštiju ili ne primjenjuju kodeks ponašanja mogu biti trajno uklonjeni iz projektnog tima.
