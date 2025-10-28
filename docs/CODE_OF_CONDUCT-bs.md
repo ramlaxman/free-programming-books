@@ -4,7 +4,7 @@ Kao kontributori i održavaoci ovog projekta, sa namjerom njegovanja otvorene i 
 
 Posvećeni smo tome da učešće u ovom projektu učinimo iskustvom bez uznemiravanja, bez obzira na nivo iskustva, spol, spolni identitet i izražavanje, seksualnu orijentaciju, invaliditet, lični izgled, veličinu tijela, etničku pripadnost, starost, religiju ili nacionalnost.
 
-Primjeri neprihvatljivog ponašanja od strane učesnika uključuje:
+Primjeri neprihvatljivog ponašanja od strane učesnika uključuje:  
 
 * Upotreba seksualiziranog jezika ili slika
 * Lični napadi
